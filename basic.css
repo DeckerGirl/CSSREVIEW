@@ -38,7 +38,7 @@ p:nth-of-type(2) {
     padding: 20px;
     border: 2px solid #008000;
     line-height: 1.8;
-    background-color: #add8e6;
+    background-color: #ffffff;
 }
 
 /* 4th and 5th paragraph colors */
@@ -82,7 +82,7 @@ li {
 
 /* List item links (different from w3schools link) */
 li a {
-    color: #b34700;
+    color: #ffffff;
 }
 
 /* =========================
