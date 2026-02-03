@@ -102,8 +102,8 @@ th, td {
 
 /* Table header styling */
 th {
-    background-color: #add8e6;
-    color: #ffffff;
+    background-color: #f2f2f2;
+    color: #222;
 }
 
 /* Table cell styling */
