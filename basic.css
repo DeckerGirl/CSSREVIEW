@@ -38,16 +38,16 @@ p:nth-of-type(2) {
     padding: 20px;
     border: 2px solid #555;
     line-height: 1.8;
-    background-color: #000080;
+    background-color: #add8e6;
 }
 
 /* 4th and 5th paragraph colors */
 p:nth-of-type(4) {
-    color: #0a6ea8;
+    color: #add8e6;
 }
 
 p:nth-of-type(5) {
-    color: #8b1c1c;
+    color: #add8e6;
 }
 
 /* =========================
