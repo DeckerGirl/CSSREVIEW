@@ -73,7 +73,7 @@ a:hover {
 
 /* W3Schools link different color */
 a[href*="w3schools"] {
-    color: #000080;
+    color: #FF0000;
     font-weight: bold;
 }
 
@@ -111,7 +111,7 @@ th, td {
 
 /* Table header styling */
 th {
-    background-color: #f2f2f2;
+    background-color: #808080;
     color: #222;
 }
 
