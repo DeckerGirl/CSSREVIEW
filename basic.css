@@ -41,14 +41,21 @@ p:nth-of-type(2) {
     background-color: #ffffff;
 }
 
-/* 4th and 5th paragraph colors */
-p:nth-of-type(4) {
-    color: #add8e6;
+
+
+
+
+
+/* 4th paragraph special formatting */
+p:nth-of-type(2) {
+    width: 60%;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #008000;
+    line-height: 1.8;
+    background-color: #ffffff;
 }
 
-p:nth-of-type(5) {
-    color: #add8e6;
-}
 
 /* =========================
    Links
