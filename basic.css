@@ -71,7 +71,7 @@ a:hover {
 
 /* W3Schools link different color */
 a[href*="w3schools"] {
-    color: #2aa62a;
+    color: #000080;
     font-weight: bold;
 }
 
